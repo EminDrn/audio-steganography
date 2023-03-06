@@ -6,4 +6,4 @@ Orignal Audio sample is in : **sample.wav**
 
 Algorithm | Code File | Audio Name
 ------------ | ------------- | ------------- 
-Modified LSB (with flip) | stegoFlipped.py | sampleStegoFlip.wav
+Modified LSB (with flip) | stegoFlipped.py | denemeSes.wav
